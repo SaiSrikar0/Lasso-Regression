@@ -4,7 +4,7 @@ A Streamlit app to explore and predict restaurant tips using Lasso Regression on
 
 ## Live Demo
 
-- Deployed app: https://lasso-prediction.streamlit.app/
+- Deployed app: https://laso-r-prediction.streamlit.app/
 
 ## Preview
 
